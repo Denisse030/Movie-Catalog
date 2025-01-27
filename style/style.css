@@ -36,7 +36,6 @@ img {
     border: 10px solid black;
     text-align: center;
     border-radius: 10px;
-    
 }
 
 p {
@@ -48,7 +47,6 @@ p {
 
 table {
     text-align: center;
-
 }
 
 footer {
@@ -80,8 +78,8 @@ li {
     column-rule: 10px  aliceblue;
     column-gap: 3rem;
     text-align: center;
-
 }
+
 
 .columns p {
     margin-top: 5;
@@ -110,12 +108,18 @@ iframe {
     border: 10px black solid;
     border-radius: 10px;
     border-width: 10px;
-
+    width: 100%;
+    max-width: 100%; 
+    height: auto; 
+    aspect-ratio: 16 / 9;
 }
 
 audio {
     border: 10px solid black;
     border-radius: 10px;
+    width: 100%;
+    max-width: 100%; 
+    height: auto; 
 }
 
 .wrapper {
@@ -143,6 +147,7 @@ audio {
     border: 10px solid black;
     text-align: center;
     border-radius: 10px;
+    height: auto;
 }
 
 button {
