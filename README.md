@@ -1,6 +1,6 @@
-# Movie Catalog 🎬
+# Horror Movie Catalog 🎬
 
-Welcome to the **Movie Catalog** project! This is a beginner-level project that showcases a catalog of movies using HTML and CSS. The project demonstrates fundamental web development skills with a clean design.
+Welcome to my **Movie Catalog** project! This is a beginner-level project that showcases a catalog of movies using HTML and CSS. The project demonstrates fundamental web development skills with a clean design.
 
 ## 🌟 Features
 
